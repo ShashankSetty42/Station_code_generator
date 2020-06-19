@@ -6,5 +6,7 @@ a file called `generated_codes.txt` will be generated containing the codes in th
 
 ## Assumptions
 -> file contents are in upper case
+
 -> different city in each line
+
 -> different codes in each line
